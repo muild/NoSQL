@@ -102,10 +102,6 @@ $mobiles = array(
 //	'avantgo'			=> 'Avantgo',
 //	'xiino'				=> 'Xiino',
 	'palmscape'			=> 'Palmscape',
-//	'nokia'				=> 'Nokia',
-//	'ericsson'			=> 'Ericsson',
-//	'blackberry'		=> 'BlackBerry',
-//	'motorola'			=> 'Motorola'
 
 	// Phones and Manufacturers
 	'motorola'		=> 'Motorola',
