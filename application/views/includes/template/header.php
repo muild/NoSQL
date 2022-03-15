@@ -19,18 +19,18 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="C:/xampp/htdocs/NoSQL/assests/template/argon-dashboard-master/assets/img/favicon.png">
+  <link rel="icon" type="image/png" href="../assests/template/argon-dashboard-master/assets/img/Logo_Team_6_v2.png">
   <title>
-    Argon Dashboard 2 by Creative Tim
+  NoSQL Project
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
   <!-- Nucleo Icons -->
-  <link href="C:/xampp/htdocs/NoSQL/assests/template/argon-dashboard-master/assets/css/nucleo-icons.css" rel="stylesheet" />
-  <link href="C:/xampp/htdocs/NoSQL/assests/template/argon-dashboard-master/assets/css/nucleo-svg.css" rel="stylesheet" />
+  <link href="../assests/template/argon-dashboard-master/assets/css/nucleo-icons.css" rel="stylesheet" />
+  <link href="../assests/template/argon-dashboard-master/assets/css/nucleo-svg.css" rel="stylesheet" />
   <!-- Font Awesome Icons -->
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-  <link href="C:/xampp/htdocs/NoSQL/assests/template/argon-dashboard-master/assets/css/nucleo-svg.css" rel="stylesheet" />
+  <link href="../assests/template/argon-dashboard-master/assets/css/nucleo-svg.css" rel="stylesheet" />
   <!-- CSS Files -->
-  <link id="pagestyle" href="C:/xampp/htdocs/NoSQL/assests/template/argon-dashboard-master/assets/css/argon-dashboard.css?v=2.0.0" rel="stylesheet" />
+  <link id="pagestyle" href="../assests/template/argon-dashboard-master/assets/css/argon-dashboard.css?v=2.0.0" rel="stylesheet" />
 </head>
